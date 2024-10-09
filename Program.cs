@@ -2,5 +2,13 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Escreva seu nome :");
 string name = Console.ReadLine();
-string lastname = Console.ReadLine();
-Console.WriteLine("Bem vindo sr: {0} {1}", name, lastname);
+
+Console.WriteLine("digite seu peso:"); 
+double weight = double.Parse(Console.ReadLine());
+       
+Console.WriteLine("digite sua altura:"); 
+double height = double.Parse(Console.ReadLine());
+
+double bmi = weight / (height * height);
+Console.WriteLine("olá, " + name);
+Console.WriteLine("seu imc é: " + bmi);

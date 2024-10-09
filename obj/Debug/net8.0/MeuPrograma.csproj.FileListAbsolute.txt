@@ -1,0 +1,15 @@
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\MeuPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\MeuPrograma.AssemblyInfoInputs.cache
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\MeuPrograma.AssemblyInfo.cs
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\MeuPrograma.csproj.CoreCompileInputs.cache
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\MeuPrograma.sourcelink.json
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\bin\Debug\net8.0\MeuPrograma.exe
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\bin\Debug\net8.0\MeuPrograma.deps.json
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\bin\Debug\net8.0\MeuPrograma.runtimeconfig.json
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\bin\Debug\net8.0\MeuPrograma.dll
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\bin\Debug\net8.0\MeuPrograma.pdb
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\MeuPrograma.dll
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\refint\MeuPrograma.dll
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\MeuPrograma.pdb
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\MeuPrograma.genruntimeconfig.cache
+C:\Users\melch\code_projects\C#\demo02\MeuPrograma\obj\Debug\net8.0\ref\MeuPrograma.dll
